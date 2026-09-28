@@ -1,0 +1,43 @@
+{
+    "title": "Run-Length Encoding",
+    "difficulty": 4,
+    "topic": "Strings (stretch)",
+    "cases": [
+        {
+            "input": "aaabbc",
+            "answer": "a3b2c1"
+        },
+        {
+            "input": "abc",
+            "answer": "a1b1c1"
+        },
+        {
+            "input": "",
+            "answer": ""
+        },
+        {
+            "input": "aaaa",
+            "answer": "a4"
+        },
+        {
+            "input": "aabbaa",
+            "answer": "a2b2a2"
+        },
+        {
+            "input": "a",
+            "answer": "a1"
+        },
+        {
+            "input": "abcd",
+            "answer": "a1b1c1d1"
+        },
+        {
+            "input": "zzzzzzzzzz",
+            "answer": "z10"
+        },
+        {
+            "input": "aabbbcccc",
+            "answer": "a2b3c4"
+        }
+    ]
+}

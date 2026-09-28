@@ -1,0 +1,59 @@
+{
+    "title": "Even or Odd",
+    "difficulty": 2,
+    "topic": "Conditionals",
+    "cases": [
+        {
+            "input": 2,
+            "answer": true
+        },
+        {
+            "input": 3,
+            "answer": false
+        },
+        {
+            "input": 10,
+            "answer": true
+        },
+        {
+            "input": 7,
+            "answer": false
+        },
+        {
+            "input": 100,
+            "answer": true
+        },
+        {
+            "input": 0,
+            "answer": true
+        },
+        {
+            "input": -4,
+            "answer": true
+        },
+        {
+            "input": 1,
+            "answer": false
+        },
+        {
+            "input": 42,
+            "answer": true
+        },
+        {
+            "input": -1,
+            "answer": false
+        },
+        {
+            "input": -2,
+            "answer": true
+        },
+        {
+            "input": 999998,
+            "answer": true
+        },
+        {
+            "input": 999999,
+            "answer": false
+        }
+    ]
+}

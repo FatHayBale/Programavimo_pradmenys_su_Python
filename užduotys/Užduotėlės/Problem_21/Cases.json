@@ -1,0 +1,63 @@
+{
+    "title": "Is Prime",
+    "difficulty": 3,
+    "topic": "Functions & Decomposition",
+    "cases": [
+        {
+            "input": 7,
+            "answer": true
+        },
+        {
+            "input": 2,
+            "answer": true
+        },
+        {
+            "input": 1,
+            "answer": false
+        },
+        {
+            "input": 0,
+            "answer": false
+        },
+        {
+            "input": 15,
+            "answer": false
+        },
+        {
+            "input": 17,
+            "answer": true
+        },
+        {
+            "input": 97,
+            "answer": true
+        },
+        {
+            "input": 3,
+            "answer": true
+        },
+        {
+            "input": 4,
+            "answer": false
+        },
+        {
+            "input": 11,
+            "answer": true
+        },
+        {
+            "input": 13,
+            "answer": true
+        },
+        {
+            "input": 25,
+            "answer": false
+        },
+        {
+            "input": 29,
+            "answer": true
+        },
+        {
+            "input": 49,
+            "answer": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Palindrome Check",
+    "difficulty": 4,
+    "topic": "Loops + Strings",
+    "cases": [
+        {
+            "input": "racecar",
+            "answer": true
+        },
+        {
+            "input": "hello",
+            "answer": false
+        },
+        {
+            "input": "level",
+            "answer": true
+        },
+        {
+            "input": "python",
+            "answer": false
+        },
+        {
+            "input": "madam",
+            "answer": true
+        },
+        {
+            "input": "kayak",
+            "answer": true
+        },
+        {
+            "input": "rotor",
+            "answer": true
+        },
+        {
+            "input": "abba",
+            "answer": true
+        },
+        {
+            "input": "xyz",
+            "answer": false
+        }
+    ]
+}

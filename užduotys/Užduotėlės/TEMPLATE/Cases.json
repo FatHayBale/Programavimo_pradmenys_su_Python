@@ -1,0 +1,15 @@
+{
+    "title": "Template",
+    "difficulty": "?",
+    "topic": "?",
+    "cases": [
+        {
+            "input": [
+                1,
+                2,
+                3
+            ],
+            "answer": 6
+        }
+    ]
+}

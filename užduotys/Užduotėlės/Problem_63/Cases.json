@@ -1,0 +1,63 @@
+{
+    "title": "Rock, Paper, Scissors Resolver",
+    "difficulty": 3,
+    "topic": "Games (logic)",
+    "cases": [
+        {
+            "input": [
+                "rock",
+                "scissors"
+            ],
+            "answer": "Player 1"
+        },
+        {
+            "input": [
+                "paper",
+                "rock"
+            ],
+            "answer": "Player 1"
+        },
+        {
+            "input": [
+                "scissors",
+                "scissors"
+            ],
+            "answer": "Draw"
+        },
+        {
+            "input": [
+                "rock",
+                "paper"
+            ],
+            "answer": "Player 2"
+        },
+        {
+            "input": [
+                "scissors",
+                "rock"
+            ],
+            "answer": "Player 2"
+        },
+        {
+            "input": [
+                "rock",
+                "rock"
+            ],
+            "answer": "Draw"
+        },
+        {
+            "input": [
+                "paper",
+                "paper"
+            ],
+            "answer": "Draw"
+        },
+        {
+            "input": [
+                "paper",
+                "scissors"
+            ],
+            "answer": "Player 2"
+        }
+    ]
+}

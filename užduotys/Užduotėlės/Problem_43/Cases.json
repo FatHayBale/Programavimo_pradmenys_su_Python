@@ -1,0 +1,133 @@
+{
+    "title": "Nested Dictionary Lookup",
+    "difficulty": 4,
+    "topic": "Structured Data",
+    "cases": [
+        {
+            "input": [
+                {
+                    "user": {
+                        "name": "Alice",
+                        "address": {
+                            "city": "Oslo"
+                        }
+                    }
+                },
+                [
+                    "user",
+                    "address",
+                    "city"
+                ]
+            ],
+            "answer": "Oslo"
+        },
+        {
+            "input": [
+                {
+                    "a": {
+                        "b": {
+                            "c": 42
+                        }
+                    }
+                },
+                [
+                    "a",
+                    "b",
+                    "c"
+                ]
+            ],
+            "answer": 42
+        },
+        {
+            "input": [
+                {
+                    "a": {
+                        "b": 1
+                    }
+                },
+                [
+                    "a",
+                    "x"
+                ]
+            ],
+            "answer": null
+        },
+        {
+            "input": [
+                {},
+                [
+                    "a"
+                ]
+            ],
+            "answer": null
+        },
+        {
+            "input": [
+                {
+                    "x": 5
+                },
+                [
+                    "x"
+                ]
+            ],
+            "answer": 5
+        },
+        {
+            "input": [
+                {
+                    "profile": {
+                        "id": 123
+                    }
+                },
+                [
+                    "profile",
+                    "id"
+                ]
+            ],
+            "answer": 123
+        },
+        {
+            "input": [
+                {
+                    "server": {
+                        "host": "localhost"
+                    }
+                },
+                [
+                    "server",
+                    "port"
+                ]
+            ],
+            "answer": null
+        },
+        {
+            "input": [
+                {
+                    "config": {}
+                },
+                [
+                    "config",
+                    "debug"
+                ]
+            ],
+            "answer": null
+        },
+        {
+            "input": [
+                {
+                    "a": {
+                        "b": {
+                            "c": 99
+                        }
+                    }
+                },
+                [
+                    "a",
+                    "b",
+                    "c"
+                ]
+            ],
+            "answer": 99
+        }
+    ]
+}

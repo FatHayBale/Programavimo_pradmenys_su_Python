@@ -1,0 +1,78 @@
+{
+    "title": "Word Count Across a Multi-line \"File\"",
+    "difficulty": 3,
+    "topic": "Files (simulated)",
+    "cases": [
+        {
+            "input": "the cat\nsat on\nthe mat",
+            "answer": {
+                "the": 2,
+                "cat": 1,
+                "sat": 1,
+                "on": 1,
+                "mat": 1
+            }
+        },
+        {
+            "input": "one two\ntwo three\nthree three",
+            "answer": {
+                "one": 1,
+                "two": 2,
+                "three": 3
+            }
+        },
+        {
+            "input": "hello\nhello world",
+            "answer": {
+                "hello": 2,
+                "world": 1
+            }
+        },
+        {
+            "input": "",
+            "answer": {}
+        },
+        {
+            "input": "a\nb\na\nb\na",
+            "answer": {
+                "a": 3,
+                "b": 2
+            }
+        },
+        {
+            "input": "one fish\ntwo fish\nred fish\nblue fish",
+            "answer": {
+                "one": 1,
+                "fish": 4,
+                "two": 1,
+                "red": 1,
+                "blue": 1
+            }
+        },
+        {
+            "input": "hello world\nhello again",
+            "answer": {
+                "hello": 2,
+                "world": 1,
+                "again": 1
+            }
+        },
+        {
+            "input": "single line content",
+            "answer": {
+                "single": 1,
+                "line": 1,
+                "content": 1
+            }
+        },
+        {
+            "input": "line one\nline two\nline three",
+            "answer": {
+                "line": 3,
+                "one": 1,
+                "two": 1,
+                "three": 1
+            }
+        }
+    ]
+}

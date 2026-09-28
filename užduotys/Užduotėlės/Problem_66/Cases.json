@@ -1,0 +1,70 @@
+{
+    "title": "Guess the Number Feedback",
+    "difficulty": 2,
+    "topic": "Games (logic)",
+    "cases": [
+        {
+            "input": [
+                50,
+                70
+            ],
+            "answer": "Too High"
+        },
+        {
+            "input": [
+                50,
+                30
+            ],
+            "answer": "Too Low"
+        },
+        {
+            "input": [
+                50,
+                50
+            ],
+            "answer": "Correct"
+        },
+        {
+            "input": [
+                1,
+                2
+            ],
+            "answer": "Too High"
+        },
+        {
+            "input": [
+                100,
+                100
+            ],
+            "answer": "Correct"
+        },
+        {
+            "input": [
+                10,
+                5
+            ],
+            "answer": "Too Low"
+        },
+        {
+            "input": [
+                10,
+                20
+            ],
+            "answer": "Too High"
+        },
+        {
+            "input": [
+                0,
+                0
+            ],
+            "answer": "Correct"
+        },
+        {
+            "input": [
+                100,
+                1
+            ],
+            "answer": "Too Low"
+        }
+    ]
+}

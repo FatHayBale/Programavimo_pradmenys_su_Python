@@ -1,0 +1,123 @@
+{
+    "title": "Group Words by First Letter",
+    "difficulty": 4,
+    "topic": "Structured Data",
+    "cases": [
+        {
+            "input": [
+                "apple",
+                "avocado",
+                "banana",
+                "blueberry",
+                "cherry"
+            ],
+            "answer": {
+                "a": [
+                    "apple",
+                    "avocado"
+                ],
+                "b": [
+                    "banana",
+                    "blueberry"
+                ],
+                "c": [
+                    "cherry"
+                ]
+            }
+        },
+        {
+            "input": [],
+            "answer": {}
+        },
+        {
+            "input": [
+                "Zebra",
+                "zoo"
+            ],
+            "answer": {
+                "z": [
+                    "Zebra",
+                    "zoo"
+                ]
+            }
+        },
+        {
+            "input": [
+                "one"
+            ],
+            "answer": {
+                "o": [
+                    "one"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Dog",
+                "cat",
+                "Deer",
+                "Cow"
+            ],
+            "answer": {
+                "d": [
+                    "Dog",
+                    "Deer"
+                ],
+                "c": [
+                    "cat",
+                    "Cow"
+                ]
+            }
+        },
+        {
+            "input": [
+                "ant",
+                "bear",
+                "cat"
+            ],
+            "answer": {
+                "a": [
+                    "ant"
+                ],
+                "b": [
+                    "bear"
+                ],
+                "c": [
+                    "cat"
+                ]
+            }
+        },
+        {
+            "input": [
+                "sun",
+                "star",
+                "sky"
+            ],
+            "answer": {
+                "s": [
+                    "sun",
+                    "star",
+                    "sky"
+                ]
+            }
+        },
+        {
+            "input": [
+                "red",
+                "rose",
+                "ruby",
+                "blue"
+            ],
+            "answer": {
+                "r": [
+                    "red",
+                    "rose",
+                    "ruby"
+                ],
+                "b": [
+                    "blue"
+                ]
+            }
+        }
+    ]
+}

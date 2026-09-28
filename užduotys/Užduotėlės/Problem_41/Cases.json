@@ -1,0 +1,59 @@
+{
+    "title": "Student with the Highest Grade",
+    "difficulty": 3,
+    "topic": "Structured Data",
+    "cases": [
+        {
+            "input": {
+                "Alice": 85,
+                "Bob": 92,
+                "Carol": 78
+            },
+            "answer": "Bob"
+        },
+        {
+            "input": {
+                "Sam": 100
+            },
+            "answer": "Sam"
+        },
+        {
+            "input": {
+                "X": 50,
+                "Y": 50
+            },
+            "answer": "X"
+        },
+        {
+            "input": {
+                "A": 0,
+                "B": -5
+            },
+            "answer": "A"
+        },
+        {
+            "input": {
+                "Anna": 70,
+                "Ben": 85,
+                "Cara": 99
+            },
+            "answer": "Cara"
+        },
+        {
+            "input": {
+                "X": 10,
+                "Y": 20,
+                "Z": 5
+            },
+            "answer": "Y"
+        },
+        {
+            "input": {
+                "A": 90,
+                "B": 80,
+                "C": 70
+            },
+            "answer": "A"
+        }
+    ]
+}

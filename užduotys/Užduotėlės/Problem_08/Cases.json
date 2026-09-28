@@ -1,0 +1,51 @@
+{
+    "title": "Leap Year",
+    "difficulty": 2,
+    "topic": "Conditionals (compound logic)",
+    "cases": [
+        {
+            "input": 2000,
+            "answer": true
+        },
+        {
+            "input": 1900,
+            "answer": false
+        },
+        {
+            "input": 2024,
+            "answer": true
+        },
+        {
+            "input": 2023,
+            "answer": false
+        },
+        {
+            "input": 1600,
+            "answer": true
+        },
+        {
+            "input": 2100,
+            "answer": false
+        },
+        {
+            "input": 4,
+            "answer": true
+        },
+        {
+            "input": 1700,
+            "answer": false
+        },
+        {
+            "input": 2028,
+            "answer": true
+        },
+        {
+            "input": 2030,
+            "answer": false
+        },
+        {
+            "input": 100,
+            "answer": false
+        }
+    ]
+}

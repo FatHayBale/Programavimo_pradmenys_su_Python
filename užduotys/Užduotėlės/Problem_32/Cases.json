@@ -1,0 +1,87 @@
+{
+    "title": "Filter Positive Numbers",
+    "difficulty": 3,
+    "topic": "Collections",
+    "cases": [
+        {
+            "input": [
+                1,
+                -2,
+                3,
+                -4,
+                5
+            ],
+            "answer": [
+                1,
+                3,
+                5
+            ]
+        },
+        {
+            "input": [
+                -1,
+                -2
+            ],
+            "answer": []
+        },
+        {
+            "input": [
+                0,
+                1,
+                2
+            ],
+            "answer": [
+                1,
+                2
+            ]
+        },
+        {
+            "input": [],
+            "answer": []
+        },
+        {
+            "input": [
+                5
+            ],
+            "answer": [
+                5
+            ]
+        },
+        {
+            "input": [
+                0
+            ],
+            "answer": []
+        },
+        {
+            "input": [
+                -10,
+                20,
+                -30,
+                40
+            ],
+            "answer": [
+                20,
+                40
+            ]
+        },
+        {
+            "input": [
+                100
+            ],
+            "answer": [
+                100
+            ]
+        },
+        {
+            "input": [
+                -1,
+                0,
+                1
+            ],
+            "answer": [
+                1
+            ]
+        }
+    ]
+}

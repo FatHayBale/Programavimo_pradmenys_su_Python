@@ -1,0 +1,88 @@
+{
+    "title": "Parse a Whole \"File\" into Records",
+    "difficulty": 4,
+    "topic": "Files (simulated)",
+    "cases": [
+        {
+            "input": "name,age\nAlice,30\nBob,25",
+            "answer": [
+                {
+                    "name": "Alice",
+                    "age": "30"
+                },
+                {
+                    "name": "Bob",
+                    "age": "25"
+                }
+            ]
+        },
+        {
+            "input": "item,qty\napple,4\nbanana,6\ncherry,2",
+            "answer": [
+                {
+                    "item": "apple",
+                    "qty": "4"
+                },
+                {
+                    "item": "banana",
+                    "qty": "6"
+                },
+                {
+                    "item": "cherry",
+                    "qty": "2"
+                }
+            ]
+        },
+        {
+            "input": "name\nSolo",
+            "answer": [
+                {
+                    "name": "Solo"
+                }
+            ]
+        },
+        {
+            "input": "a,b\n",
+            "answer": []
+        },
+        {
+            "input": "name,city\nJohn,Chicago\nMary,Boston",
+            "answer": [
+                {
+                    "name": "John",
+                    "city": "Chicago"
+                },
+                {
+                    "name": "Mary",
+                    "city": "Boston"
+                }
+            ]
+        },
+        {
+            "input": "product,price\nApple,1\nBanana,2\nOrange,3",
+            "answer": [
+                {
+                    "product": "Apple",
+                    "price": "1"
+                },
+                {
+                    "product": "Banana",
+                    "price": "2"
+                },
+                {
+                    "product": "Orange",
+                    "price": "3"
+                }
+            ]
+        },
+        {
+            "input": "col1,col2\na,b",
+            "answer": [
+                {
+                    "col1": "a",
+                    "col2": "b"
+                }
+            ]
+        }
+    ]
+}

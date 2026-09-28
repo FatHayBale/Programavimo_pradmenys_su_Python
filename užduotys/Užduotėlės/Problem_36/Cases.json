@@ -1,0 +1,43 @@
+{
+    "title": "Longest Word in a Sentence",
+    "difficulty": 3,
+    "topic": "Collections + Strings",
+    "cases": [
+        {
+            "input": "the quick brown fox",
+            "answer": "quick"
+        },
+        {
+            "input": "a bb ccc",
+            "answer": "ccc"
+        },
+        {
+            "input": "equal four four",
+            "answer": "equal"
+        },
+        {
+            "input": "",
+            "answer": ""
+        },
+        {
+            "input": "python is fun",
+            "answer": "python"
+        },
+        {
+            "input": "hello world",
+            "answer": "hello"
+        },
+        {
+            "input": "cat dog bird elephant",
+            "answer": "elephant"
+        },
+        {
+            "input": "short and longest word",
+            "answer": "longest"
+        },
+        {
+            "input": "same size each",
+            "answer": "same"
+        }
+    ]
+}

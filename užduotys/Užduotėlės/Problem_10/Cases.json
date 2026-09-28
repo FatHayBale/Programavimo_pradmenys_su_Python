@@ -1,0 +1,51 @@
+{
+    "title": "FizzBuzz (single number)",
+    "difficulty": 3,
+    "topic": "Conditionals",
+    "cases": [
+        {
+            "input": 3,
+            "answer": "Fizz"
+        },
+        {
+            "input": 5,
+            "answer": "Buzz"
+        },
+        {
+            "input": 15,
+            "answer": "FizzBuzz"
+        },
+        {
+            "input": 7,
+            "answer": "7"
+        },
+        {
+            "input": 9,
+            "answer": "Fizz"
+        },
+        {
+            "input": 10,
+            "answer": "Buzz"
+        },
+        {
+            "input": 1,
+            "answer": "1"
+        },
+        {
+            "input": 45,
+            "answer": "FizzBuzz"
+        },
+        {
+            "input": 8,
+            "answer": "8"
+        },
+        {
+            "input": 2,
+            "answer": "2"
+        },
+        {
+            "input": 60,
+            "answer": "FizzBuzz"
+        }
+    ]
+}

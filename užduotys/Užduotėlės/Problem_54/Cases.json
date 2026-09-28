@@ -1,0 +1,63 @@
+{
+    "title": "Format a List as a CSV Line",
+    "difficulty": 2,
+    "topic": "Files (simulated)",
+    "cases": [
+        {
+            "input": [
+                "Alice",
+                30,
+                "Oslo"
+            ],
+            "answer": "Alice,30,Oslo"
+        },
+        {
+            "input": [
+                1,
+                2,
+                3
+            ],
+            "answer": "1,2,3"
+        },
+        {
+            "input": [
+                "x"
+            ],
+            "answer": "x"
+        },
+        {
+            "input": [],
+            "answer": ""
+        },
+        {
+            "input": [
+                "Bob",
+                25,
+                "Madrid"
+            ],
+            "answer": "Bob,25,Madrid"
+        },
+        {
+            "input": [
+                "Charlie",
+                40,
+                "Rome"
+            ],
+            "answer": "Charlie,40,Rome"
+        },
+        {
+            "input": [
+                "single"
+            ],
+            "answer": "single"
+        },
+        {
+            "input": [
+                "x",
+                "y",
+                "z"
+            ],
+            "answer": "x,y,z"
+        }
+    ]
+}

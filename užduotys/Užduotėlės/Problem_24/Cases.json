@@ -1,0 +1,39 @@
+{
+    "title": "Factorial, Recursively",
+    "difficulty": 4,
+    "topic": "Functions & Recursion",
+    "cases": [
+        {
+            "input": 5,
+            "answer": 120
+        },
+        {
+            "input": 0,
+            "answer": 1
+        },
+        {
+            "input": 1,
+            "answer": 1
+        },
+        {
+            "input": 4,
+            "answer": 24
+        },
+        {
+            "input": 6,
+            "answer": 720
+        },
+        {
+            "input": 2,
+            "answer": 2
+        },
+        {
+            "input": 7,
+            "answer": 5040
+        },
+        {
+            "input": 8,
+            "answer": 40320
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "title": "Parse a CSV Line",
+    "difficulty": 3,
+    "topic": "Files (simulated)",
+    "cases": [
+        {
+            "input": "Alice,30,Oslo",
+            "answer": [
+                "Alice",
+                30,
+                "Oslo"
+            ]
+        },
+        {
+            "input": "Bob, 25 , Bergen",
+            "answer": [
+                "Bob",
+                25,
+                "Bergen"
+            ]
+        },
+        {
+            "input": "Eve,40,Trondheim",
+            "answer": [
+                "Eve",
+                40,
+                "Trondheim"
+            ]
+        },
+        {
+            "input": "Sam,19,Stavanger",
+            "answer": [
+                "Sam",
+                19,
+                "Stavanger"
+            ]
+        },
+        {
+            "input": "Charlie, 45, London",
+            "answer": [
+                "Charlie",
+                45,
+                "London"
+            ]
+        },
+        {
+            "input": "David, 22, Berlin",
+            "answer": [
+                "David",
+                22,
+                "Berlin"
+            ]
+        },
+        {
+            "input": "Eva, 35, Tokyo",
+            "answer": [
+                "Eva",
+                35,
+                "Tokyo"
+            ]
+        },
+        {
+            "input": "Frank, 50, Toronto",
+            "answer": [
+                "Frank",
+                50,
+                "Toronto"
+            ]
+        }
+    ]
+}

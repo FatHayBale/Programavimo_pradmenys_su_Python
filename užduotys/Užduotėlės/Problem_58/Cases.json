@@ -1,0 +1,43 @@
+{
+    "title": "Validate Phone Number Format",
+    "difficulty": 3,
+    "topic": "Libraries (re)",
+    "cases": [
+        {
+            "input": "555-123-4567",
+            "answer": true
+        },
+        {
+            "input": "5551234567",
+            "answer": false
+        },
+        {
+            "input": "555-12-4567",
+            "answer": false
+        },
+        {
+            "input": "abc-123-4567",
+            "answer": false
+        },
+        {
+            "input": "123-456-7890",
+            "answer": true
+        },
+        {
+            "input": "12-345-6789",
+            "answer": false
+        },
+        {
+            "input": "1234-567-890",
+            "answer": false
+        },
+        {
+            "input": "123-456-78901",
+            "answer": false
+        },
+        {
+            "input": "000-000-0000",
+            "answer": true
+        }
+    ]
+}

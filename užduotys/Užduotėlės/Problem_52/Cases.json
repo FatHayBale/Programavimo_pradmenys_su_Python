@@ -1,0 +1,70 @@
+{
+    "title": "Buggy: Word Frequency (crashes!)",
+    "difficulty": 3,
+    "topic": "Debugging (tracebacks)",
+    "cases": [
+        {
+            "input": "the cat sat on the mat",
+            "answer": {
+                "the": 2,
+                "cat": 1,
+                "sat": 1,
+                "on": 1,
+                "mat": 1
+            }
+        },
+        {
+            "input": "a a a b b c",
+            "answer": {
+                "a": 3,
+                "b": 2,
+                "c": 1
+            }
+        },
+        {
+            "input": "one",
+            "answer": {
+                "one": 1
+            }
+        },
+        {
+            "input": "Hello hello HELLO",
+            "answer": {
+                "hello": 3
+            }
+        },
+        {
+            "input": "",
+            "answer": {}
+        },
+        {
+            "input": "to be or not to be",
+            "answer": {
+                "to": 2,
+                "be": 2,
+                "or": 1,
+                "not": 1
+            }
+        },
+        {
+            "input": "hello world hello",
+            "answer": {
+                "hello": 2,
+                "world": 1
+            }
+        },
+        {
+            "input": "repeat repeat repeat",
+            "answer": {
+                "repeat": 3
+            }
+        },
+        {
+            "input": "single word",
+            "answer": {
+                "single": 1,
+                "word": 1
+            }
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "title": "Sum of a List, Recursively",
+    "difficulty": 4,
+    "topic": "Functions & Recursion",
+    "cases": [
+        {
+            "input": [
+                1,
+                2,
+                3
+            ],
+            "answer": 6
+        },
+        {
+            "input": [],
+            "answer": 0
+        },
+        {
+            "input": [
+                5
+            ],
+            "answer": 5
+        },
+        {
+            "input": [
+                10,
+                -2,
+                0
+            ],
+            "answer": 8
+        },
+        {
+            "input": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "answer": 4
+        },
+        {
+            "input": [
+                10,
+                20,
+                30
+            ],
+            "answer": 60
+        },
+        {
+            "input": [
+                0,
+                0
+            ],
+            "answer": 0
+        },
+        {
+            "input": [
+                -5,
+                -10
+            ],
+            "answer": -15
+        },
+        {
+            "input": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "answer": 15
+        }
+    ]
+}

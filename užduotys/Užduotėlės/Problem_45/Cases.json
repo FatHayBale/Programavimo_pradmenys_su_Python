@@ -1,0 +1,86 @@
+{
+    "title": "Shopping Cart Total",
+    "difficulty": 4,
+    "topic": "Structured Data",
+    "cases": [
+        {
+            "input": [
+                {
+                    "item": "apple",
+                    "price": 0.5,
+                    "qty": 4
+                },
+                {
+                    "item": "bread",
+                    "price": 2.5,
+                    "qty": 2
+                }
+            ],
+            "answer": 7.0
+        },
+        {
+            "input": [],
+            "answer": 0
+        },
+        {
+            "input": [
+                {
+                    "item": "x",
+                    "price": 10,
+                    "qty": 1
+                }
+            ],
+            "answer": 10
+        },
+        {
+            "input": [
+                {
+                    "item": "a",
+                    "price": 1.99,
+                    "qty": 3
+                },
+                {
+                    "item": "b",
+                    "price": 3.49,
+                    "qty": 2
+                }
+            ],
+            "answer": 12.95
+        },
+        {
+            "input": [
+                {
+                    "item": "milk",
+                    "price": 1.5,
+                    "qty": 10
+                },
+                {
+                    "item": "cheese",
+                    "price": 20.0,
+                    "qty": 1
+                }
+            ],
+            "answer": 35.0
+        },
+        {
+            "input": [
+                {
+                    "item": "water",
+                    "price": 0.0,
+                    "qty": 5
+                }
+            ],
+            "answer": 0.0
+        },
+        {
+            "input": [
+                {
+                    "item": "pen",
+                    "price": 12.5,
+                    "qty": 2
+                }
+            ],
+            "answer": 25.0
+        }
+    ]
+}

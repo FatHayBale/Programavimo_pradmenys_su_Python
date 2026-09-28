@@ -1,0 +1,51 @@
+{
+    "title": "Buggy: FizzBuzz",
+    "difficulty": 3,
+    "topic": "Debugging",
+    "cases": [
+        {
+            "input": 15,
+            "answer": "FizzBuzz"
+        },
+        {
+            "input": 3,
+            "answer": "Fizz"
+        },
+        {
+            "input": 5,
+            "answer": "Buzz"
+        },
+        {
+            "input": 7,
+            "answer": "7"
+        },
+        {
+            "input": 30,
+            "answer": "FizzBuzz"
+        },
+        {
+            "input": 9,
+            "answer": "Fizz"
+        },
+        {
+            "input": 10,
+            "answer": "Buzz"
+        },
+        {
+            "input": 45,
+            "answer": "FizzBuzz"
+        },
+        {
+            "input": 8,
+            "answer": "8"
+        },
+        {
+            "input": 2,
+            "answer": "2"
+        },
+        {
+            "input": 60,
+            "answer": "FizzBuzz"
+        }
+    ]
+}

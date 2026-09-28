@@ -1,0 +1,74 @@
+{
+    "title": "Sum of a List",
+    "difficulty": 3,
+    "topic": "Loops + Arrays",
+    "cases": [
+        {
+            "input": [
+                1,
+                2,
+                3
+            ],
+            "answer": 6
+        },
+        {
+            "input": [
+                4,
+                5,
+                6
+            ],
+            "answer": 15
+        },
+        {
+            "input": [
+                10,
+                -2,
+                0
+            ],
+            "answer": 8
+        },
+        {
+            "input": [],
+            "answer": 0
+        },
+        {
+            "input": [
+                100
+            ],
+            "answer": 100
+        },
+        {
+            "input": [
+                100,
+                200,
+                300
+            ],
+            "answer": 600
+        },
+        {
+            "input": [
+                0,
+                0,
+                0
+            ],
+            "answer": 0
+        },
+        {
+            "input": [
+                -5,
+                5
+            ],
+            "answer": 0
+        },
+        {
+            "input": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "answer": 5
+        }
+    ]
+}

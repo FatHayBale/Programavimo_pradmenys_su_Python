@@ -1,0 +1,69 @@
+{
+    "title": "Invert a Dictionary",
+    "difficulty": 3,
+    "topic": "Structured Data",
+    "cases": [
+        {
+            "input": {
+                "apple": "fruit",
+                "carrot": "vegetable"
+            },
+            "answer": {
+                "fruit": "apple",
+                "vegetable": "carrot"
+            }
+        },
+        {
+            "input": {},
+            "answer": {}
+        },
+        {
+            "input": {
+                "jan": "month"
+            },
+            "answer": {
+                "month": "jan"
+            }
+        },
+        {
+            "input": {
+                "a": "x",
+                "b": "y",
+                "c": "z"
+            },
+            "answer": {
+                "x": "a",
+                "y": "b",
+                "z": "c"
+            }
+        },
+        {
+            "input": {
+                "one": "1",
+                "two": "2"
+            },
+            "answer": {
+                "1": "one",
+                "2": "two"
+            }
+        },
+        {
+            "input": {
+                "red": "color",
+                "cat": "animal"
+            },
+            "answer": {
+                "color": "red",
+                "animal": "cat"
+            }
+        },
+        {
+            "input": {
+                "k": "v"
+            },
+            "answer": {
+                "v": "k"
+            }
+        }
+    ]
+}

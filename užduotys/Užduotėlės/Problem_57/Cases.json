@@ -1,0 +1,59 @@
+{
+    "title": "Extract Emails from Text",
+    "difficulty": 4,
+    "topic": "Libraries (re)",
+    "cases": [
+        {
+            "input": "Contact us at info@example.com or sales@example.org",
+            "answer": [
+                "info@example.com",
+                "sales@example.org"
+            ]
+        },
+        {
+            "input": "No emails here",
+            "answer": []
+        },
+        {
+            "input": "a@b.co and c@d.net, also e@f.io",
+            "answer": [
+                "a@b.co",
+                "c@d.net",
+                "e@f.io"
+            ]
+        },
+        {
+            "input": "single@test.com",
+            "answer": [
+                "single@test.com"
+            ]
+        },
+        {
+            "input": "",
+            "answer": []
+        },
+        {
+            "input": "send to test@example.org and info@sample.co.uk",
+            "answer": [
+                "test@example.org",
+                "info@sample.co.uk"
+            ]
+        },
+        {
+            "input": "no email here",
+            "answer": []
+        },
+        {
+            "input": "first@domain.com",
+            "answer": [
+                "first@domain.com"
+            ]
+        },
+        {
+            "input": "user.name+tag@sub.domain.org",
+            "answer": [
+                "tag@sub.domain.org"
+            ]
+        }
+    ]
+}

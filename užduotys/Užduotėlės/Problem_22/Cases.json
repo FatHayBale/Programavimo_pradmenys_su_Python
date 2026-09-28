@@ -1,0 +1,47 @@
+{
+    "title": "Sum of Digits",
+    "difficulty": 3,
+    "topic": "Functions & Decomposition",
+    "cases": [
+        {
+            "input": 123,
+            "answer": 6
+        },
+        {
+            "input": 0,
+            "answer": 0
+        },
+        {
+            "input": 9,
+            "answer": 9
+        },
+        {
+            "input": 1001,
+            "answer": 2
+        },
+        {
+            "input": -456,
+            "answer": 15
+        },
+        {
+            "input": 999,
+            "answer": 27
+        },
+        {
+            "input": -999,
+            "answer": 27
+        },
+        {
+            "input": 105,
+            "answer": 6
+        },
+        {
+            "input": 2024,
+            "answer": 8
+        },
+        {
+            "input": 7,
+            "answer": 7
+        }
+    ]
+}

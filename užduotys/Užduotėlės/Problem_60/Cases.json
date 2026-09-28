@@ -1,0 +1,87 @@
+{
+    "title": "Deterministic \"Random\" List",
+    "difficulty": 3,
+    "topic": "Libraries (random)",
+    "cases": [
+        {
+            "input": 1,
+            "answer": [
+                18,
+                73,
+                98,
+                9,
+                33
+            ]
+        },
+        {
+            "input": 42,
+            "answer": [
+                82,
+                15,
+                4,
+                95,
+                36
+            ]
+        },
+        {
+            "input": 0,
+            "answer": [
+                50,
+                98,
+                54,
+                6,
+                34
+            ]
+        },
+        {
+            "input": 123,
+            "answer": [
+                7,
+                35,
+                12,
+                99,
+                53
+            ]
+        },
+        {
+            "input": 7,
+            "answer": [
+                42,
+                20,
+                51,
+                84,
+                7
+            ]
+        },
+        {
+            "input": 100,
+            "answer": [
+                19,
+                59,
+                59,
+                99,
+                23
+            ]
+        },
+        {
+            "input": 999,
+            "answer": [
+                87,
+                11,
+                73,
+                74,
+                69
+            ]
+        },
+        {
+            "input": 12345,
+            "answer": [
+                54,
+                94,
+                2,
+                39,
+                48
+            ]
+        }
+    ]
+}

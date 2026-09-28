@@ -1,1 +1,19 @@
-*.py
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary Office files
+~$*
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Teacher-only / exercise guide files
+užduotys/README.md
+užduotys/SOLUTIONS.md
+užduotys/PROBLEM_GUIDE.md
+užduotis/README.md
+užduotis/SOLUTIONS.md
+užduotis/PROBLEM_GUIDE.md

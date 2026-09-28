@@ -1,0 +1,47 @@
+{
+    "title": "Celsius to Fahrenheit",
+    "difficulty": 1,
+    "topic": "Arithmetic & Type Conversion",
+    "cases": [
+        {
+            "input": 0,
+            "answer": 32.0
+        },
+        {
+            "input": 100,
+            "answer": 212.0
+        },
+        {
+            "input": 37,
+            "answer": 98.6
+        },
+        {
+            "input": -40,
+            "answer": -40.0
+        },
+        {
+            "input": 20,
+            "answer": 68.0
+        },
+        {
+            "input": -10,
+            "answer": 14.0
+        },
+        {
+            "input": 15.5,
+            "answer": 59.9
+        },
+        {
+            "input": 25,
+            "answer": 77.0
+        },
+        {
+            "input": -273.15,
+            "answer": -459.7
+        },
+        {
+            "input": 50,
+            "answer": 122.0
+        }
+    ]
+}

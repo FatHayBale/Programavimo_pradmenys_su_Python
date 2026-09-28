@@ -1,0 +1,59 @@
+{
+    "title": "Grade Classifier",
+    "difficulty": 2,
+    "topic": "Conditionals",
+    "cases": [
+        {
+            "input": 95,
+            "answer": "A"
+        },
+        {
+            "input": 82,
+            "answer": "B"
+        },
+        {
+            "input": 74,
+            "answer": "C"
+        },
+        {
+            "input": 61,
+            "answer": "D"
+        },
+        {
+            "input": 40,
+            "answer": "F"
+        },
+        {
+            "input": 90,
+            "answer": "A"
+        },
+        {
+            "input": 59,
+            "answer": "F"
+        },
+        {
+            "input": 100,
+            "answer": "A"
+        },
+        {
+            "input": 85,
+            "answer": "B"
+        },
+        {
+            "input": 70,
+            "answer": "C"
+        },
+        {
+            "input": 69,
+            "answer": "D"
+        },
+        {
+            "input": 60,
+            "answer": "D"
+        },
+        {
+            "input": 50,
+            "answer": "F"
+        }
+    ]
+}

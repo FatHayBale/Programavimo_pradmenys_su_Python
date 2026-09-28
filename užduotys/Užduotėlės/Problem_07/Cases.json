@@ -1,0 +1,70 @@
+{
+    "title": "Compare Two Numbers",
+    "difficulty": 2,
+    "topic": "Conditionals",
+    "cases": [
+        {
+            "input": [
+                5,
+                3
+            ],
+            "answer": "greater"
+        },
+        {
+            "input": [
+                3,
+                5
+            ],
+            "answer": "less"
+        },
+        {
+            "input": [
+                4,
+                4
+            ],
+            "answer": "equal"
+        },
+        {
+            "input": [
+                -1,
+                1
+            ],
+            "answer": "less"
+        },
+        {
+            "input": [
+                0,
+                0
+            ],
+            "answer": "equal"
+        },
+        {
+            "input": [
+                -5,
+                5
+            ],
+            "answer": "less"
+        },
+        {
+            "input": [
+                100,
+                99
+            ],
+            "answer": "greater"
+        },
+        {
+            "input": [
+                50,
+                100
+            ],
+            "answer": "less"
+        },
+        {
+            "input": [
+                -10,
+                -10
+            ],
+            "answer": "equal"
+        }
+    ]
+}

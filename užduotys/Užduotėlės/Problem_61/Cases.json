@@ -1,0 +1,77 @@
+{
+    "title": "GCD Using the math Library",
+    "difficulty": 2,
+    "topic": "Libraries (math)",
+    "cases": [
+        {
+            "input": [
+                48,
+                18
+            ],
+            "answer": 6
+        },
+        {
+            "input": [
+                17,
+                5
+            ],
+            "answer": 1
+        },
+        {
+            "input": [
+                0,
+                5
+            ],
+            "answer": 5
+        },
+        {
+            "input": [
+                100,
+                75
+            ],
+            "answer": 25
+        },
+        {
+            "input": [
+                7,
+                7
+            ],
+            "answer": 7
+        },
+        {
+            "input": [
+                54,
+                24
+            ],
+            "answer": 6
+        },
+        {
+            "input": [
+                13,
+                17
+            ],
+            "answer": 1
+        },
+        {
+            "input": [
+                100,
+                10
+            ],
+            "answer": 10
+        },
+        {
+            "input": [
+                81,
+                27
+            ],
+            "answer": 27
+        },
+        {
+            "input": [
+                35,
+                14
+            ],
+            "answer": 7
+        }
+    ]
+}

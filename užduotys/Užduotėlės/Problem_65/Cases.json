@@ -1,0 +1,159 @@
+{
+    "title": "Inventory Simulator",
+    "difficulty": 4,
+    "topic": "Games (logic)",
+    "cases": [
+        {
+            "input": [
+                [
+                    "add",
+                    "sword"
+                ],
+                [
+                    "add",
+                    "shield"
+                ],
+                [
+                    "remove",
+                    "sword"
+                ]
+            ],
+            "answer": [
+                "shield"
+            ]
+        },
+        {
+            "input": [
+                [
+                    "add",
+                    "potion"
+                ],
+                [
+                    "add",
+                    "potion"
+                ],
+                [
+                    "remove",
+                    "potion"
+                ]
+            ],
+            "answer": [
+                "potion"
+            ]
+        },
+        {
+            "input": [
+                [
+                    "remove",
+                    "nothing"
+                ]
+            ],
+            "answer": []
+        },
+        {
+            "input": [],
+            "answer": []
+        },
+        {
+            "input": [
+                [
+                    "add",
+                    "a"
+                ],
+                [
+                    "add",
+                    "b"
+                ],
+                [
+                    "add",
+                    "c"
+                ],
+                [
+                    "remove",
+                    "b"
+                ]
+            ],
+            "answer": [
+                "a",
+                "c"
+            ]
+        },
+        {
+            "input": [
+                [
+                    "add",
+                    "gem"
+                ],
+                [
+                    "add",
+                    "potion"
+                ],
+                [
+                    "add",
+                    "gem"
+                ]
+            ],
+            "answer": [
+                "gem",
+                "potion",
+                "gem"
+            ]
+        },
+        {
+            "input": [
+                [
+                    "remove",
+                    "ghost"
+                ]
+            ],
+            "answer": []
+        },
+        {
+            "input": [
+                [
+                    "add",
+                    "sword"
+                ],
+                [
+                    "remove",
+                    "shield"
+                ]
+            ],
+            "answer": [
+                "sword"
+            ]
+        },
+        {
+            "input": [
+                [
+                    "add",
+                    "key"
+                ],
+                [
+                    "remove",
+                    "key"
+                ]
+            ],
+            "answer": []
+        },
+        {
+            "input": [
+                [
+                    "add",
+                    "apple"
+                ],
+                [
+                    "add",
+                    "banana"
+                ],
+                [
+                    "remove",
+                    "apple"
+                ]
+            ],
+            "answer": [
+                "banana"
+            ]
+        }
+    ]
+}

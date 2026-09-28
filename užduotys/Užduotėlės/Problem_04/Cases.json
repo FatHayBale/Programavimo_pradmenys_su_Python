@@ -1,0 +1,47 @@
+{
+    "title": "String to Number",
+    "difficulty": 1,
+    "topic": "Type Conversion",
+    "cases": [
+        {
+            "input": "42",
+            "answer": 50
+        },
+        {
+            "input": "0",
+            "answer": 8
+        },
+        {
+            "input": "-10",
+            "answer": -2
+        },
+        {
+            "input": "100",
+            "answer": 108
+        },
+        {
+            "input": "7",
+            "answer": 15
+        },
+        {
+            "input": "1",
+            "answer": 9
+        },
+        {
+            "input": "-8",
+            "answer": 0
+        },
+        {
+            "input": "999",
+            "answer": 1007
+        },
+        {
+            "input": "-100",
+            "answer": -92
+        },
+        {
+            "input": "15",
+            "answer": 23
+        }
+    ]
+}

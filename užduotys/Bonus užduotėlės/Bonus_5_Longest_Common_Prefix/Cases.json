@@ -1,0 +1,64 @@
+{
+    "title": "Longest Common Prefix",
+    "difficulty": 4,
+    "topic": "Collections (stretch)",
+    "cases": [
+        {
+            "input": [
+                "flower",
+                "flow",
+                "flight"
+            ],
+            "answer": "fl"
+        },
+        {
+            "input": [
+                "dog",
+                "racecar",
+                "car"
+            ],
+            "answer": ""
+        },
+        {
+            "input": [
+                "interview",
+                "internet",
+                "internal"
+            ],
+            "answer": "inter"
+        },
+        {
+            "input": [
+                "single"
+            ],
+            "answer": "single"
+        },
+        {
+            "input": [],
+            "answer": ""
+        },
+        {
+            "input": [
+                "throne",
+                "throne"
+            ],
+            "answer": "throne"
+        },
+        {
+            "input": [
+                "prefix",
+                "prevent",
+                "prefixation"
+            ],
+            "answer": "pre"
+        },
+        {
+            "input": [
+                "a",
+                "b",
+                "c"
+            ],
+            "answer": ""
+        }
+    ]
+}

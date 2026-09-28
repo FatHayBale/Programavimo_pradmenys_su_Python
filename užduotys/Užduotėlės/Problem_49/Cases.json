@@ -1,0 +1,47 @@
+{
+    "title": "Buggy: Reverse a String",
+    "difficulty": 3,
+    "topic": "Debugging",
+    "cases": [
+        {
+            "input": "hello",
+            "answer": "olleh"
+        },
+        {
+            "input": "Python",
+            "answer": "nohtyP"
+        },
+        {
+            "input": "a",
+            "answer": "a"
+        },
+        {
+            "input": "",
+            "answer": ""
+        },
+        {
+            "input": "racecar",
+            "answer": "racecar"
+        },
+        {
+            "input": "world",
+            "answer": "dlrow"
+        },
+        {
+            "input": "12345",
+            "answer": "54321"
+        },
+        {
+            "input": "ab",
+            "answer": "ba"
+        },
+        {
+            "input": "noon",
+            "answer": "noon"
+        },
+        {
+            "input": "spaces here",
+            "answer": "ereh secaps"
+        }
+    ]
+}

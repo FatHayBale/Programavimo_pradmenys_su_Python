@@ -1,0 +1,79 @@
+{
+    "title": "Average of Three",
+    "difficulty": 1,
+    "topic": "Arithmetic & Expressions",
+    "cases": [
+        {
+            "input": [
+                1,
+                2,
+                3
+            ],
+            "answer": 2.0
+        },
+        {
+            "input": [
+                10,
+                0,
+                5
+            ],
+            "answer": 5.0
+        },
+        {
+            "input": [
+                4,
+                4,
+                4
+            ],
+            "answer": 4.0
+        },
+        {
+            "input": [
+                -2,
+                2,
+                0
+            ],
+            "answer": 0.0
+        },
+        {
+            "input": [
+                7,
+                8,
+                9
+            ],
+            "answer": 8.0
+        },
+        {
+            "input": [
+                10,
+                20,
+                30
+            ],
+            "answer": 20.0
+        },
+        {
+            "input": [
+                -5,
+                -10,
+                -15
+            ],
+            "answer": -10.0
+        },
+        {
+            "input": [
+                2.5,
+                3.5,
+                6.0
+            ],
+            "answer": 4.0
+        },
+        {
+            "input": [
+                100,
+                200,
+                300
+            ],
+            "answer": 200.0
+        }
+    ]
+}

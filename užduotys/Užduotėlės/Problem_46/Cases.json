@@ -1,0 +1,94 @@
+{
+    "title": "Contact Book Lookup",
+    "difficulty": 4,
+    "topic": "Structured Data",
+    "cases": [
+        {
+            "input": [
+                {
+                    "Alice": {
+                        "phone": "555-1234",
+                        "email": "alice@example.com"
+                    }
+                },
+                "Alice"
+            ],
+            "answer": "Alice: 555-1234, alice@example.com"
+        },
+        {
+            "input": [
+                {
+                    "Bob": {
+                        "phone": "555-0000",
+                        "email": "bob@x.com"
+                    }
+                },
+                "Carol"
+            ],
+            "answer": null
+        },
+        {
+            "input": [
+                {},
+                "Nobody"
+            ],
+            "answer": null
+        },
+        {
+            "input": [
+                {
+                    "Sam": {
+                        "phone": "111",
+                        "email": "s@s.com"
+                    },
+                    "Ann": {
+                        "phone": "222",
+                        "email": "a@a.com"
+                    }
+                },
+                "Ann"
+            ],
+            "answer": "Ann: 222, a@a.com"
+        },
+        {
+            "input": [
+                {
+                    "Emma": {
+                        "phone": "111-222",
+                        "email": "emma@test.com"
+                    },
+                    "John": {
+                        "phone": "333-444",
+                        "email": "john@test.com"
+                    }
+                },
+                "John"
+            ],
+            "answer": "John: 333-444, john@test.com"
+        },
+        {
+            "input": [
+                {
+                    "Dave": {
+                        "phone": "999",
+                        "email": "dave@test.com"
+                    }
+                },
+                "Sarah"
+            ],
+            "answer": null
+        },
+        {
+            "input": [
+                {
+                    "Alex": {
+                        "phone": "12345",
+                        "email": "alex@mail.com"
+                    }
+                },
+                "Alex"
+            ],
+            "answer": "Alex: 12345, alex@mail.com"
+        }
+    ]
+}

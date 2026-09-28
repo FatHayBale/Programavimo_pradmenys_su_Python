@@ -1,0 +1,35 @@
+{
+    "title": "Temperature Unit Converter",
+    "difficulty": 5,
+    "topic": "String Parsing",
+    "cases": [
+        {
+            "input": "100 celsius to fahrenheit",
+            "answer": 212.0
+        },
+        {
+            "input": "32 fahrenheit to celsius",
+            "answer": 0.0
+        },
+        {
+            "input": "0 celsius to kelvin",
+            "answer": 273.15
+        },
+        {
+            "input": "273.15 kelvin to celsius",
+            "answer": 0.0
+        },
+        {
+            "input": "300 kelvin to fahrenheit",
+            "answer": 80.33
+        },
+        {
+            "input": "300 kelvin to celsius",
+            "answer": 26.85
+        },
+        {
+            "input": "212 fahrenheit to kelvin",
+            "answer": 373.15
+        }
+    ]
+}

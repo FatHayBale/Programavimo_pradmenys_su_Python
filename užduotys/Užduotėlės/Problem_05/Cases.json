@@ -1,0 +1,63 @@
+{
+    "title": "Full Name Builder",
+    "difficulty": 1,
+    "topic": "Strings",
+    "cases": [
+        {
+            "input": [
+                "Ada",
+                "Lovelace"
+            ],
+            "answer": "Ada Lovelace"
+        },
+        {
+            "input": [
+                "Grace",
+                "Hopper"
+            ],
+            "answer": "Grace Hopper"
+        },
+        {
+            "input": [
+                "Linus",
+                "Torvalds"
+            ],
+            "answer": "Linus Torvalds"
+        },
+        {
+            "input": [
+                "A",
+                "B"
+            ],
+            "answer": "A B"
+        },
+        {
+            "input": [
+                "Margaret",
+                "Hamilton"
+            ],
+            "answer": "Margaret Hamilton"
+        },
+        {
+            "input": [
+                "John",
+                "Doe"
+            ],
+            "answer": "John Doe"
+        },
+        {
+            "input": [
+                "Marie",
+                "Curie"
+            ],
+            "answer": "Marie Curie"
+        },
+        {
+            "input": [
+                "Albert",
+                "Einstein"
+            ],
+            "answer": "Albert Einstein"
+        }
+    ]
+}

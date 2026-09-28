@@ -1,0 +1,51 @@
+{
+    "title": "Password Strength Checker",
+    "difficulty": 4,
+    "topic": "Functions & Decomposition",
+    "cases": [
+        {
+            "input": "abc",
+            "answer": "weak"
+        },
+        {
+            "input": "abcdefgh",
+            "answer": "medium"
+        },
+        {
+            "input": "Abcdefg1",
+            "answer": "strong"
+        },
+        {
+            "input": "Abc1!",
+            "answer": "strong"
+        },
+        {
+            "input": "12345678",
+            "answer": "medium"
+        },
+        {
+            "input": "A1!aaaaa",
+            "answer": "strong"
+        },
+        {
+            "input": "Secret123!",
+            "answer": "strong"
+        },
+        {
+            "input": "admin",
+            "answer": "weak"
+        },
+        {
+            "input": "Pass1234",
+            "answer": "strong"
+        },
+        {
+            "input": "ALLCAPS1!",
+            "answer": "strong"
+        },
+        {
+            "input": "Short1!",
+            "answer": "strong"
+        }
+    ]
+}

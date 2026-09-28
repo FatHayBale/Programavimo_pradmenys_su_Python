@@ -1,0 +1,76 @@
+{
+    "title": "Buggy: List Average",
+    "difficulty": 3,
+    "topic": "Debugging",
+    "cases": [
+        {
+            "input": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "answer": 2.5
+        },
+        {
+            "input": [
+                10
+            ],
+            "answer": 10.0
+        },
+        {
+            "input": [],
+            "answer": null
+        },
+        {
+            "input": [
+                2,
+                2,
+                2,
+                2
+            ],
+            "answer": 2.0
+        },
+        {
+            "input": [
+                5,
+                10,
+                15
+            ],
+            "answer": 10.0
+        },
+        {
+            "input": [
+                2,
+                4,
+                6,
+                8
+            ],
+            "answer": 5.0
+        },
+        {
+            "input": [
+                0,
+                0,
+                0
+            ],
+            "answer": 0.0
+        },
+        {
+            "input": [
+                100,
+                200
+            ],
+            "answer": 150.0
+        },
+        {
+            "input": [
+                -5,
+                5,
+                -10,
+                10
+            ],
+            "answer": 0.0
+        }
+    ]
+}

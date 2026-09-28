@@ -1,0 +1,47 @@
+{
+    "title": "Count Vowels",
+    "difficulty": 3,
+    "topic": "Loops + Strings",
+    "cases": [
+        {
+            "input": "hello",
+            "answer": 2
+        },
+        {
+            "input": "Elephant",
+            "answer": 3
+        },
+        {
+            "input": "xyz",
+            "answer": 0
+        },
+        {
+            "input": "AEIOU",
+            "answer": 5
+        },
+        {
+            "input": "",
+            "answer": 0
+        },
+        {
+            "input": "Python",
+            "answer": 1
+        },
+        {
+            "input": "bcdfg",
+            "answer": 0
+        },
+        {
+            "input": "a",
+            "answer": 1
+        },
+        {
+            "input": "Quick Brown Fox",
+            "answer": 4
+        },
+        {
+            "input": "education",
+            "answer": 5
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "title": "Anagram Check",
+    "difficulty": 4,
+    "topic": "Loops + Arrays",
+    "cases": [
+        {
+            "input": [
+                "listen",
+                "silent"
+            ],
+            "answer": true
+        },
+        {
+            "input": [
+                "apple",
+                "pale"
+            ],
+            "answer": false
+        },
+        {
+            "input": [
+                "anagram",
+                "nagaram"
+            ],
+            "answer": true
+        },
+        {
+            "input": [
+                "hello",
+                "world"
+            ],
+            "answer": false
+        },
+        {
+            "input": [
+                "cat",
+                "act"
+            ],
+            "answer": true
+        },
+        {
+            "input": [
+                "evil",
+                "vile"
+            ],
+            "answer": true
+        },
+        {
+            "input": [
+                "night",
+                "thing"
+            ],
+            "answer": true
+        },
+        {
+            "input": [
+                "cat",
+                "dog"
+            ],
+            "answer": false
+        },
+        {
+            "input": [
+                "cinema",
+                "iceman"
+            ],
+            "answer": true
+        },
+        {
+            "input": [
+                "aabb",
+                "bbaa"
+            ],
+            "answer": true
+        }
+    ]
+}

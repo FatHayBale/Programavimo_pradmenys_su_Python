@@ -1,0 +1,43 @@
+{
+    "title": "Word Count",
+    "difficulty": 3,
+    "topic": "Collections + Strings",
+    "cases": [
+        {
+            "input": "hello world",
+            "answer": 2
+        },
+        {
+            "input": "",
+            "answer": 0
+        },
+        {
+            "input": "   spaced   out   ",
+            "answer": 2
+        },
+        {
+            "input": "one",
+            "answer": 1
+        },
+        {
+            "input": "a b c d e",
+            "answer": 5
+        },
+        {
+            "input": "quick brown fox",
+            "answer": 3
+        },
+        {
+            "input": "   ",
+            "answer": 0
+        },
+        {
+            "input": "Python programming language",
+            "answer": 3
+        },
+        {
+            "input": "one two three four",
+            "answer": 4
+        }
+    ]
+}

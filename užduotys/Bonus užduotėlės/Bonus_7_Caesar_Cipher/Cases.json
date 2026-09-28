@@ -1,0 +1,70 @@
+{
+    "title": "Caesar Cipher",
+    "difficulty": 4,
+    "topic": "Functions (stretch)",
+    "cases": [
+        {
+            "input": [
+                "Hello, World!",
+                3
+            ],
+            "answer": "Khoor, Zruog!"
+        },
+        {
+            "input": [
+                "abc",
+                1
+            ],
+            "answer": "bcd"
+        },
+        {
+            "input": [
+                "XYZ",
+                3
+            ],
+            "answer": "ABC"
+        },
+        {
+            "input": [
+                "Python 3.9",
+                5
+            ],
+            "answer": "Udymts 3.9"
+        },
+        {
+            "input": [
+                "Shift back",
+                -3
+            ],
+            "answer": "Pefcq yxzh"
+        },
+        {
+            "input": [
+                "Hello, World!",
+                13
+            ],
+            "answer": "Uryyb, Jbeyq!"
+        },
+        {
+            "input": [
+                "xyz",
+                3
+            ],
+            "answer": "abc"
+        },
+        {
+            "input": [
+                "Python 3.10",
+                4
+            ],
+            "answer": "Tcxlsr 3.10"
+        },
+        {
+            "input": [
+                "",
+                5
+            ],
+            "answer": ""
+        }
+    ]
+}

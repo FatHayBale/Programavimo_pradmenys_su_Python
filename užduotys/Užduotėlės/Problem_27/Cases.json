@@ -1,0 +1,87 @@
+{
+    "title": "Simple Calculator",
+    "difficulty": 4,
+    "topic": "Functions & Decomposition",
+    "cases": [
+        {
+            "input": [
+                4,
+                "+",
+                5
+            ],
+            "answer": 9
+        },
+        {
+            "input": [
+                10,
+                "-",
+                3
+            ],
+            "answer": 7
+        },
+        {
+            "input": [
+                6,
+                "*",
+                7
+            ],
+            "answer": 42
+        },
+        {
+            "input": [
+                20,
+                "/",
+                4
+            ],
+            "answer": 5.0
+        },
+        {
+            "input": [
+                5,
+                "/",
+                0
+            ],
+            "answer": null
+        },
+        {
+            "input": [
+                15,
+                "+",
+                25
+            ],
+            "answer": 40
+        },
+        {
+            "input": [
+                5,
+                "-",
+                10
+            ],
+            "answer": -5
+        },
+        {
+            "input": [
+                8,
+                "*",
+                0
+            ],
+            "answer": 0
+        },
+        {
+            "input": [
+                7,
+                "/",
+                2
+            ],
+            "answer": 3.5
+        },
+        {
+            "input": [
+                10,
+                "%",
+                3
+            ],
+            "answer": null
+        }
+    ]
+}
